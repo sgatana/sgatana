@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 I am a dedicated software engineer with 6+ years of professional experience working with distributed/remote teams. I am an advocate of writing stable, clean, and maintainable code. I specialize in working with top JS libraries and frameworks, including but not limited to React, Typescript, Next.js, Vue.js, Nuxt, and Agular with CSS/SASS and modern style frameworks like Tailwind, MUI, Ant Design, Bootstrap, etc. I am also proficient in developing RESTful and GraphQL APIs with Node.js, using SQL and NoSQL databases.
 
 ### Skills
- - React.js, Next.js, Remix
+ - Javascript & Typescript
+ - React.js, Next.js, Remix,
+ - Vue.js, Nuxt
  - Tailwind, MUI, Ant Design, Bootstrap, CSS, SCSS, Less, Storybook
  - Node.js, express.js, Koa, Nest.js, hapi.js, mali.js
  - PostgreSQL, MySQL, MSSQL, MariaDB, ORMs
- - MongoDB, Redis
+ - NoSQL, MongoDB, Redis
  - Go
  - Python
 
