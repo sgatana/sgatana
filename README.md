@@ -18,12 +18,13 @@ I am a dedicated software engineer with 6+ years of professional experience work
 
 ### Skills
  - Javascript & Typescript
- - React.js, Next.js, Remix,
- - Vue.js, Nuxt
- - Tailwind, MUI, Ant Design, Bootstrap, CSS, SCSS, Less, Storybook
- - Node.js, express.js, Koa, Nest.js, hapi.js, mali.js
- - PostgreSQL, MySQL, MSSQL, MariaDB, ORMs
- - NoSQL, MongoDB, Redis
+ - React.js, Next.js, Remix, React Router
+ - React Query, redux/redux toolkit, Zustand e.t.c
+ - Vue.js, Nuxt, Vuex, Pinia
+ - Tailwind, MUI, Ant Design, Bootstrap, CSS, SCSS, Less, Storybook e.t.c
+ - Node.js, express.js, Koa, Nest.js, hapi.js, Hono, mali.js e.t.c.
+ - PostgreSQL, MySQL, MSSQL, MariaDB, ORMs e.t.c.
+ - NoSQL, MongoDB, Redis e.t.c.
  - Go
  - Python
 
