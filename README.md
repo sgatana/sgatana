@@ -19,6 +19,7 @@ I am a dedicated software engineer with 6+ years of professional experience work
 ### Skills
  - Javascript & Typescript
  - React.js, Next.js, Remix, React Router
+ - Angular and Modern Angular (>=v17)
  - React Query, redux/redux toolkit, Zustand e.t.c
  - Vue.js, Nuxt, Vuex, Pinia
  - Tailwind, MUI, Ant Design, Bootstrap, CSS, SCSS, Less, Storybook e.t.c
