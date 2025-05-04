@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a dedicated software engineer with 6+ years of professional experience working with distributed/remote teams. I am an advocate of writing stable, clean, and maintainable code. I specialize in working with top JS libraries and frameworks, including but not limited to React, Typescript, Next.js, Vue.js, Nuxt, and Agular with CSS/SASS and modern style frameworks like Tailwind, MUI, Ant Design, Bootstrap, etc. I am also proficient in developing RESTful and GraphQL APIs with Node.js and Python, using SQL and NoSQL databases.
+I am a dedicated software engineer with 6+ years of professional experience working with distributed/remote teams. I am an advocate of writing stable, clean, and maintainable code. I specialize in working with top JS libraries and frameworks, including but not limited to React, Typescript, Next.js, Vue.js, Nuxt, and Angular with CSS/SASS and modern style frameworks like Tailwind, MUI, Ant Design, Bootstrap, etc. I am also proficient in developing RESTful and GraphQL APIs with Node.js and Python, using SQL and NoSQL databases.
 
 ### Skills
  - Javascript & Typescript
